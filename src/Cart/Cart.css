@@ -1,0 +1,9 @@
+.cart-container {
+  background-color: skyblue;
+}
+
+li {
+  list-style: decimal;
+  text-align: left;
+  margin-left: 40px;
+}
